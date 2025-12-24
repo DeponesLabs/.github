@@ -65,7 +65,7 @@ We specialize in building solutions using industry-standard, high-performance te
 | :--- | :--- | :--- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 | ![DuckDB](https://img.shields.io/badge/DuckDB-FVF500?style=flat-square&logo=duckdb&logoColor=black) | ![PySide6](https://img.shields.io/badge/PySide6-Qt%20for%20Python-green?style=flat-square) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Parquet](https://img.shields.io/badge/Apache%20Parquet-C51C2C?style=flat-square&logo=apache&logoColor=white) | **WinForms / WPF** | ![Semantic Release](https://img.shields.io/badge/Semantic_Release-494949?style=flat-square&logo=semantic-release&logoColor=white) |
+| ![Parquet](https://img.shields.io/badge/Apache%20Parquet-C51C2C?style=flat-square&logo=apache&logoColor=white) |  ![DotNet](https://img.shields.io/badge/.NET%20(WPF%2FWinForms)-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![Semantic Release](https://img.shields.io/badge/Semantic_Release-494949?style=flat-square&logo=semantic-release&logoColor=white) |
 
 ---
 
