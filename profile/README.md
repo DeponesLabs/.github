@@ -1,23 +1,23 @@
 <div align="center">
-  <h1>Depones Studio</h1>
+  <h1>Depones Labs</h1>
   <p>
     <strong>High-Performance Tools & Robust Desktop Experiences</strong>
   </p>
   <p>
-    Depones Studio is an independent software R&D lab focused on data engineering, offline-first desktop applications, and process automation tools using Python & DuckDB.
+    Depones Labs is an independent software R&D lab focused on data engineering, offline-first desktop applications, and process automation tools using Python & DuckDB.
   </p>
 
-  <a href="https://github.com/DeponesStudio">
+  <a href="https://github.com/DeponesLabs">
     <img src="https://img.shields.io/badge/Established-2025-blue?style=flat-square&logo=github" alt="Established 2025">
   </a>
-  <a href="https://github.com/DeponesStudio/turbo-tosec">
-    <img src="https://img.shields.io/github/last-commit/DeponesStudio/turbo-tosec?style=flat-square&label=Turbo-TOSEC&color=orange" alt="Turbo-TOSEC Activity">
+  <a href="https://github.com/DeponesLabs/turbo-tosec">
+    <img src="https://img.shields.io/github/last-commit/DeponesLabs/turbo-tosec?style=flat-square&label=Turbo-TOSEC&color=orange" alt="Turbo-TOSEC Activity">
   </a>
   <a href="https://github.com/berkacunas/Glyph/releases">
     <img src="https://img.shields.io/github/downloads/berkacunas/Glyph/total?style=flat-square&label=Glyph%20Downloads&color=success" alt="Total Downloads">
   </a>
    <a href="https://github.com/sponsors/berkacunas">
-    <img src="https://img.shields.io/badge/Sponsor-Depones%20Studio-pink?style=flat-square&logo=github-sponsors" alt="Sponsor Us">
+    <img src="https://img.shields.io/badge/Sponsor-Depones%20Labs-pink?style=flat-square&logo=github-sponsors" alt="Sponsor Us">
   </a>
 </div>
 
@@ -33,7 +33,7 @@ We build tools that are offline-capable, privacy-focused, and engineered for max
 
 ## 🚀 Key Projects
 
-### ⚡ **[Turbo-TOSEC](https://github.com/DeponesStudio/turbo-tosec)**
+### ⚡ **[Turbo-TOSEC](https://github.com/DeponesLabs/turbo-tosec)**
 > *High-performance data ingestion & audit engine for big datasets.*
 
 A cutting-edge demonstration of modern **Data Engineering** on local machines. Turbo-TOSEC solves the bottleneck of processing massive DAT files by utilizing a **Map-Reduce** architecture with **DuckDB** and **Parquet**.
@@ -42,7 +42,7 @@ A cutting-edge demonstration of modern **Data Engineering** on local machines. T
 * ✅ **Performance:** Processes gigabytes of XML data in seconds, not hours.
 * ✅ **Tech:** Python, DuckDB, Pandas, XML Stream Parsing.
 
-[**View Repository**](https://github.com/DeponesStudio/turbo-tosec)
+[**View Repository**](https://github.com/DeponesLabs/turbo-tosec)
 
 ### 📝 **[Glyph](https://github.com/berkacunas/Glyph)**
 > *A modern, multi-tab Markdown editor built with Python & PySide6.*
@@ -71,7 +71,7 @@ We specialize in building solutions using industry-standard, high-performance te
 
 ## ❤️ Support Us
 
-Depones Studio is powered by open-source passion. If our tools help you in your daily workflow, consider supporting our development.
+Depones Labs is powered by open-source passion. If our tools help you in your daily workflow, consider supporting our development.
 
 <a href="https://github.com/sponsors/berkacunas">
   <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub">
@@ -84,5 +84,5 @@ Depones Studio is powered by open-source passion. If our tools help you in your 
 ---
 
 <div align="center">
-  <sub>Depones Studio is founded and maintained by <a href="https://github.com/berkacunas">@berkacunas</a>.</sub>
+  <sub>Depones Labs is founded and maintained by <a href="https://github.com/berkacunas">@berkacunas</a>.</sub>
 </div>
