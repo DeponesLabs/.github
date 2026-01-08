@@ -42,15 +42,15 @@ A cutting-edge demonstration of modern **Data Engineering** on local machines. T
 
 [**View Repository**](https://github.com/DeponesLabs/turbo-tosec)
 
-### 🕹️ **[Skryer](https://www.google.com/search?q=https://github.com/DeponesLabs/skryer)**
+### 🕹️ **[Skryer](https://github.com/DeponesLabs/skryer)**
 
-> *Advanced Retro-Gaming Collection Manager & Launcher.*
+> *Specialized Retro-Gaming Archive Manager & High-Performance Launcher.*
 
-Originally conceived as a visualization engine for **Turbo-TOSEC** data, Skryer has evolved into a high-performance management suite for massive retro-game collections. It bridges the gap between raw archival data and a seamless user experience.
+Originally conceived as a high-speed visualization engine for **Turbo-TOSEC** data, Skryer has evolved into a specialized management suite for large-scale retro-gaming collections. The architecture utilizes advanced indexing and local-first data processing to provide a seamless environment for managing and launching massive software archives.
 
-* ✅ **Unified Library:** Browse, filter, and launch extensive collections with zero lag.
-* ✅ **Data-Driven:** Leverages high-performance indexing to handle thousands of records instantly.
-* ✅ **Native Performance:** Built with Python & PySide6, ensuring a robust and responsive desktop environment.
+* ⚠️ **Status:** **Active Development (Initial R&D Phase).** The current implementation focuses on core architectural integrity and high-speed data fetching frameworks. Functional expansion is ongoing.
+* ✅ **High-Speed Indexing:** Capable of handling million-record collections with zero-lag navigation using embedded OLAP technologies.
+* ✅ **Native Performance:** Engineered with Python and PySide6 to ensure a responsive desktop experience for massive local datasets.
 
 **[View Repository](https://github.com/DeponesLabs/turbo-skryer)**
 
