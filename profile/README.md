@@ -13,8 +13,8 @@
   <a href="https://github.com/DeponesLabs/turbo-tosec">
     <img src="https://img.shields.io/github/last-commit/DeponesLabs/turbo-tosec?style=flat-square&label=Turbo-TOSEC&color=orange" alt="Turbo-TOSEC Activity">
   </a>
-  <a href="https://github.com/berkacunas/Glyph/releases">
-    <img src="https://img.shields.io/github/downloads/berkacunas/Glyph/total?style=flat-square&label=Glyph%20Downloads&color=success" alt="Total Downloads">
+    <a href="https://github.com/DeponesLabs/turbo-skryer">
+    <img src="https://img.shields.io/github/last-commit/DeponesLabs/turbo-skryer?style=flat-square&label=Turbo-TOSEC&color=green" alt="Turbo-TOSEC Activity">
   </a>
    <a href="https://github.com/sponsors/berkacunas">
     <img src="https://img.shields.io/badge/Sponsor-Depones%20Labs-pink?style=flat-square&logo=github-sponsors" alt="Sponsor Us">
@@ -23,11 +23,9 @@
 
 ---
 
-## 🛠️ Our Mission
+## 🛠️ Mission
 
-We bridge the gap between complex data processing and user-friendly desktop experiences. Whether it's analyzing millions of records locally or crafting distraction-free editors, our philosophy is the same: **Respect the hardware, respect the user.**
-
-We build tools that are offline-capable, privacy-focused, and engineered for maximum performance.
+Integration of low-level system programming principles into modern data engineering workflows. Focused on the development of hardware-aware, high-performance archival engines and local-first data processing tools. The objective is to provide robust, privacy-centric software solutions that maximize computational efficiency without external dependencies.
 
 ---
 
@@ -44,16 +42,17 @@ A cutting-edge demonstration of modern **Data Engineering** on local machines. T
 
 [**View Repository**](https://github.com/DeponesLabs/turbo-tosec)
 
-### 📝 **[Glyph](https://github.com/berkacunas/Glyph)**
-> *A modern, multi-tab Markdown editor built with Python & PySide6.*
+### 🕹️ **[Skryer](https://www.google.com/search?q=https://github.com/DeponesLabs/skryer)**
 
-Glyph combines the flexibility of web technologies (Chromium) with the raw performance of native code (Qt). It stands as our proof of concept for robust desktop GUI engineering.
+> *Advanced Retro-Gaming Collection Manager & Launcher.*
 
-* ✅ **Live Preview:** Side-by-side rendering with instant feedback.
-* ✅ **Professional:** PDF export, advanced syntax highlighting, distraction-free mode.
-* ✅ **Open Source:** Licensed under GPLv3.
+Originally conceived as a visualization engine for **Turbo-TOSEC** data, Skryer has evolved into a high-performance management suite for massive retro-game collections. It bridges the gap between raw archival data and a seamless user experience.
 
-[**Download Glyph**](https://github.com/berkacunas/Glyph/releases/latest) • [**View Source**](https://github.com/berkacunas/Glyph)
+* ✅ **Unified Library:** Browse, filter, and launch extensive collections with zero lag.
+* ✅ **Data-Driven:** Leverages high-performance indexing to handle thousands of records instantly.
+* ✅ **Native Performance:** Built with Python & PySide6, ensuring a robust and responsive desktop environment.
+
+**[View Repository](https://github.com/DeponesLabs/turbo-skryer)**
 
 ---
 

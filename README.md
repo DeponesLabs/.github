@@ -1,67 +1,87 @@
 <div align="center">
-  <h1>Depones Studio</h1>
+  <h1>Depones Labs</h1>
   <p>
-    <strong>Crafting Robust Desktop Experiences</strong>
+    <strong>High-Performance Tools & Robust Desktop Experiences</strong>
   </p>
   <p>
-    Depones Studio is an independent software development lab focused on building high-quality, offline-first desktop applications and developer tools.
+    Depones Labs is an independent software R&D lab focused on data engineering, offline-first desktop applications, and process automation tools using Python & DuckDB.
   </p>
 
-  <a href="https://github.com/DeponesStudio">
+  <a href="https://github.com/DeponesLabs">
     <img src="https://img.shields.io/badge/Established-2025-blue?style=flat-square&logo=github" alt="Established 2025">
   </a>
-  <a href="https://github.com/berkacunas/Glyph/releases">
-    <img src="https://img.shields.io/github/downloads/berkacunas/Glyph/total?style=flat-square&label=Downloads&color=success" alt="Total Downloads">
+  <a href="https://github.com/DeponesLabs/turbo-tosec">
+    <img src="https://img.shields.io/github/last-commit/DeponesLabs/turbo-tosec?style=flat-square&label=Turbo-TOSEC&color=orange" alt="Turbo-TOSEC Activity">
+  </a>
+    <a href="https://github.com/DeponesLabs/turbo-skryer">
+    <img src="https://img.shields.io/github/last-commit/DeponesLabs/turbo-skryer?style=flat-square&label=Turbo-TOSEC&color=green" alt="Turbo-TOSEC Activity">
   </a>
    <a href="https://github.com/sponsors/berkacunas">
-    <img src="https://img.shields.io/badge/Sponsor-Depones%20Studio-pink?style=flat-square&logo=github-sponsors" alt="Sponsor Us">
+    <img src="https://img.shields.io/badge/Sponsor-Depones%20Labs-pink?style=flat-square&logo=github-sponsors" alt="Sponsor Us">
   </a>
 </div>
 
 ---
 
-## 🛠️ Our Mission
+## 🛠️ Mission
 
-We believe in the power of native desktop applications. In a world moving entirely to the cloud, we craft tools that respect your privacy, work offline, and utilize the full power of your hardware.
+Integration of low-level system programming principles into modern data engineering workflows. Focused on the development of hardware-aware, high-performance archival engines and local-first data processing tools. The objective is to provide robust, privacy-centric software solutions that maximize computational efficiency without external dependencies.
 
-Our workflow is built on professional CI/CD standards, ensuring that every release is stable, tested, and ready for production.
+---
 
-## 🚀 Flagship Project
+## 🚀 Key Projects
 
-### **[Glyph](https://github.com/berkacunas/Glyph)**
-> *A modern, multi-tab Markdown editor built with Python & PySide6.*
+### ⚡ **[Turbo-TOSEC](https://github.com/DeponesLabs/turbo-tosec)**
+> *High-performance data ingestion & audit engine for big datasets.*
 
-Glyph is our proof of concept for modern desktop engineering. It combines the flexibility of web technologies (Chromium) with the performance of native code (Qt).
+A cutting-edge demonstration of modern **Data Engineering** on local machines. Turbo-TOSEC solves the bottleneck of processing massive DAT files by utilizing a **Map-Reduce** architecture with **DuckDB** and **Parquet**.
 
-* ✅ **Live Preview:** Side-by-side rendering.
-* ✅ **Professional:** PDF export, advanced syntax highlighting.
-* ✅ **Open Source:** Licensed under GPLv3.
+* ✅ **Architecture:** Multi-process (Map) -> Parquet Storage -> Bulk Load (Reduce).
+* ✅ **Performance:** Processes gigabytes of XML data in seconds, not hours.
+* ✅ **Tech:** Python, DuckDB, Pandas, XML Stream Parsing.
 
-[**Download Glyph**](https://github.com/berkacunas/Glyph/releases/latest) • [**View Source**](https://github.com/berkacunas/Glyph)
+[**View Repository**](https://github.com/DeponesLabs/turbo-tosec)
+
+### 🕹️ **[Skryer](https://www.google.com/search?q=https://github.com/DeponesLabs/skryer)**
+
+> *Advanced Retro-Gaming Collection Manager & Launcher.*
+
+Originally conceived as a visualization engine for **Turbo-TOSEC** data, Skryer has evolved into a high-performance management suite for massive retro-game collections. It bridges the gap between raw archival data and a seamless user experience.
+
+* ✅ **Unified Library:** Browse, filter, and launch extensive collections with zero lag.
+* ✅ **Data-Driven:** Leverages high-performance indexing to handle thousands of records instantly.
+* ✅ **Native Performance:** Built with Python & PySide6, ensuring a robust and responsive desktop environment.
+
+**[View Repository](https://github.com/DeponesLabs/turbo-skryer)**
 
 ---
 
 ## 💻 Tech Stack
 
-We specialize in building cross-platform solutions using industry-standard technologies:
+We specialize in building solutions using industry-standard, high-performance technologies:
 
-| Core | GUI Frameworks | DevOps & Tools |
+| Core & Data | GUI Frameworks | DevOps & Tools |
 | :--- | :--- | :--- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![PySide6](https://img.shields.io/badge/PySide6-Qt%20for%20Python-green?style=flat-square) | ![Semantic Release](https://img.shields.io/badge/Semantic_Release-494949?style=flat-square&logo=semantic-release&logoColor=white) |
-| | **WinForms / WPF** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![DuckDB](https://img.shields.io/badge/DuckDB-FVF500?style=flat-square&logo=duckdb&logoColor=black) | ![PySide6](https://img.shields.io/badge/PySide6-Qt%20for%20Python-green?style=flat-square) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Parquet](https://img.shields.io/badge/Apache%20Parquet-C51C2C?style=flat-square&logo=apache&logoColor=white) |  ![DotNet](https://img.shields.io/badge/.NET%20(WPF%2FWinForms)-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![Semantic Release](https://img.shields.io/badge/Semantic_Release-494949?style=flat-square&logo=semantic-release&logoColor=white) |
 
 ---
 
 ## ❤️ Support Us
 
-Depones Studio is powered by open-source passion. If our tools help you in your daily workflow, consider supporting our development.
+Depones Labs is powered by open-source passion. If our tools help you in your daily workflow, consider supporting our development.
 
-* [**GitHub Sponsors**](https://github.com/sponsors/berkacunas)
-* [**Buy Me a Coffee**](https://www.buymeacoffee.com/depones)
+<a href="https://github.com/sponsors/berkacunas">
+  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub">
+</a>
+
+<a href="https://www.buymeacoffee.com/depones">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
+</a>
 
 ---
 
 <div align="center">
-  <sub>Depones Studio is founded and maintained by <a href="https://github.com/berkacunas">@berkacunas</a>.</sub>
+  <sub>Depones Labs is founded and maintained by <a href="https://github.com/berkacunas">@berkacunas</a>.</sub>
 </div>
