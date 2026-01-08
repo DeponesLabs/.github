@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/last-commit/DeponesLabs/turbo-tosec?style=flat-square&label=Turbo-TOSEC&color=orange" alt="Turbo-TOSEC Activity">
   </a>
     <a href="https://github.com/DeponesLabs/turbo-skryer">
-    <img src="https://img.shields.io/github/last-commit/DeponesLabs/turbo-skryer?style=flat-square&label=Turbo-TOSEC&color=green" alt="Turbo-TOSEC Activity">
+    <img src="https://img.shields.io/github/last-commit/DeponesLabs/turbo-skryer?style=flat-square&label=Turbo-SKRYER&color=green" alt="Turbo-TOSEC Activity">
   </a>
    <a href="https://github.com/sponsors/berkacunas">
     <img src="https://img.shields.io/badge/Sponsor-Depones%20Labs-pink?style=flat-square&logo=github-sponsors" alt="Sponsor Us">
