@@ -25,7 +25,7 @@
 
 ## 🛠️ Mission
 
-Integration of low-level system programming principles into modern data engineering workflows. Focused on the development of hardware-aware, high-performance archival engines and local-first data processing tools. The objective is to provide robust, privacy-centric software solutions that maximize computational efficiency without external dependencies.
+Integration of low-level system programming principles into modern data workflows. Focused on the development of hardware-aware archival engines and local-first data processing tools. The objective is to provide robust, privacy-centric software solutions that maximize computational efficiency without external dependencies.
 
 ---
 
