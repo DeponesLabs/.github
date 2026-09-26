@@ -48,9 +48,9 @@ Turbo-TOSEC addresses the bottleneck of processing massive DAT files by applying
 
 Originally designed as a data visualization interface for **Turbo-TOSEC**, Skryer functions as a management suite for large-scale retro-gaming collections. It relies on local-first data processing and embedded indexing to manage and launch extensive software archives.
 
-⚠️ **Status:** Active Development (Initial R&D Phase). The current focus is on core system stability and data retrieval frameworks. Functional expansion is ongoing.
-✅ **Scale:** Capable of handling million-record collections with low-latency navigation using embedded OLAP technologies.
-✅ **Desktop Integration:** Built with Python and PySide6 to manage large local datasets with a responsive UI.
+* ⚠️ **Status:** Active Development (Initial R&D Phase). The current focus is on core system stability and data retrieval frameworks. Functional expansion is ongoing.
+* ✅ **Scale:** Capable of handling million-record collections with low-latency navigation using embedded OLAP technologies.
+* ✅ **Desktop Integration:** Built with Python and PySide6 to manage large local datasets with a responsive UI.
 
 **[View Repository](https://github.com/DeponesLabs/turbo-skryer)**
 
