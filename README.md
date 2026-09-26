@@ -32,25 +32,25 @@ Integration of low-level system programming principles into modern data engineer
 ## 🚀 Key Projects
 
 ### ⚡ **[Turbo-TOSEC](https://github.com/DeponesLabs/turbo-tosec)**
-> *High-performance data ingestion & audit engine for big datasets.*
+> *Data ingestion & audit engine for large datasets.*
 
-A cutting-edge demonstration of modern **Data Engineering** on local machines. Turbo-TOSEC solves the bottleneck of processing massive DAT files by utilizing a **Map-Reduce** architecture with **DuckDB** and **Parquet**.
+Turbo-TOSEC addresses the bottleneck of processing massive DAT files by applying **Map-Reduce** principles with **DuckDB** and **Parquet** entirely on local machines.
 
-* ✅ **Architecture:** Multi-process (Map) -> Parquet Storage -> Bulk Load (Reduce).
-* ✅ **Performance:** Processes gigabytes of XML data in seconds, not hours.
+* ✅ **Workflow:** Multi-process (Map) -> Parquet Storage -> Bulk Load (Reduce).
+* ✅ **Throughput:** Processes gigabytes of XML data in seconds rather than hours.
 * ✅ **Tech:** Python, DuckDB, Pandas, XML Stream Parsing.
 
 [**View Repository**](https://github.com/DeponesLabs/turbo-tosec)
 
 ### 🕹️ **[Skryer](https://github.com/DeponesLabs/skryer)**
 
-> *Specialized Retro-Gaming Archive Manager & High-Performance Launcher.*
+> *Specialized Retro-Gaming Archive Manager & Launcher.*
 
-Originally conceived as a high-speed visualization engine for **Turbo-TOSEC** data, Skryer has evolved into a specialized management suite for large-scale retro-gaming collections. The architecture utilizes advanced indexing and local-first data processing to provide a seamless environment for managing and launching massive software archives.
+Originally designed as a data visualization interface for **Turbo-TOSEC**, Skryer functions as a management suite for large-scale retro-gaming collections. It relies on local-first data processing and embedded indexing to manage and launch extensive software archives.
 
-* ⚠️ **Status:** **Active Development (Initial R&D Phase).** The current implementation focuses on core architectural integrity and high-speed data fetching frameworks. Functional expansion is ongoing.
-* ✅ **High-Speed Indexing:** Capable of handling million-record collections with zero-lag navigation using embedded OLAP technologies.
-* ✅ **Native Performance:** Engineered with Python and PySide6 to ensure a responsive desktop experience for massive local datasets.
+⚠️ **Status:** Active Development (Initial R&D Phase). The current focus is on core system stability and data retrieval frameworks. Functional expansion is ongoing.
+✅ **Scale:** Capable of handling million-record collections with low-latency navigation using embedded OLAP technologies.
+✅ **Desktop Integration:** Built with Python and PySide6 to manage large local datasets with a responsive UI.
 
 **[View Repository](https://github.com/DeponesLabs/turbo-skryer)**
 
@@ -68,9 +68,8 @@ We specialize in building solutions using industry-standard, high-performance te
 
 ---
 
-## ❤️ Support Us
-
-Depones Labs is powered by open-source passion. If our tools help you in your daily workflow, consider supporting our development.
+## Project Support
+All Depones Labs projects are developed independently. If this software reduces your operational overhead or compute time, you can contribute to its maintenance here.
 
 <a href="https://github.com/sponsors/berkacunas">
   <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub">
