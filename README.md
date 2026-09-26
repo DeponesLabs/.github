@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Depones Labs</h1>
   <p>
-    <strong>High-Performance Tools & Robust Desktop Experiences</strong>
+    <strong>Local-First Data Tools & Desktop Software</strong>
   </p>
   <p>
-    Depones Labs is an independent software R&D lab focused on data engineering, offline-first desktop applications, and process automation tools using Python & DuckDB.
+    Depones Labs is an independent R&D lab building offline-first data tools, desktop clients, and automation systems with Python & DuckDB.
   </p>
 
   <a href="https://github.com/DeponesLabs">
